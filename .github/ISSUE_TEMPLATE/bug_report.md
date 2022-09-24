@@ -8,13 +8,13 @@ assignees: DeadJokerNotFunny
 ---
 
 **Describe the bug**
-What is the bug?
+A description of what the bug is.
 
 **To Reproduce**
 What should I do to reproduce the same bug?
 
 **Expected behavior**
-Describe what you expected to happen.
+What you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
