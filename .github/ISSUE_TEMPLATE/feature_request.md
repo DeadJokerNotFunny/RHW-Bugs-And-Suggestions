@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What feature would you like to be added to the game**
+Ex. I would like the game to have Undo function.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**How should it work**
+Ex. When I click the Undo button, the game will undo the last move I made.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why should it be added**
+Ex. I would like to have the Undo function because I sometimes make a mistake and I want to undo it.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
